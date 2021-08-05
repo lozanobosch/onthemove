@@ -1,0 +1,188 @@
+_plaza_torre:
+
+Abrir un periódico o encender la televisión puede ser una experiencia abrumadora en estos días. Encontrar el hilo común que atraviesa el mosaico de los eventos complejos y aparentemente caóticos de hoy es un asunto complicado.
+Después de todo, ¿qué podrían tener en común la Primavera Árabe, el uso de anuncios de Facebook sobre un referéndum en el Reino Unido y las tramas de las células terroristas internacionales?
+En una palabra, redes. Ya sea que sea un comerciante global o simplemente un usuario ocasional de Twitter, es probable que esté enganchado a una red que utiliza tecnología para compartir información y difundir ideas.
+
+Aunque las redes parezcan un fenómeno contemporánea, para el historiador Naial Ferguson lo que estamos experimentando ahora es solo el acto más reciente y caótico en una obra de teatro tan antigua como Gutenberg y la invención de la imprenta.
+Desde el ataque de la Reforma al dogma católico hasta los grupos disidentes de la Polonia comunista, las redes han impulsado durante mucho tiempo el cambio histórico.
+
+----
+c1:
+Algunas personas ven la historia como una especie de pirámide. En la cima están los grandes reyes y reinas, con una vasta jerarquía de caballeros, sacerdotes y campesinos debajo de ellos. Otros enfatizan el papel de las redes clandestinas como los Illuminati o los masones; grupos de personas que, tras bastidores, mueven todos los hilos.
+Pero, ¿puede alguno de estos modelos explicar realmente el proceso histórico?
+
+Una red es simplemente un conjunto de nodos interconectados. Estos nodos pueden ser personas, puertos comerciales o miembros de la familia. Tenemos propensión a formar redes con personas similares a nosotros; lo que nos une puede ser un estado compartido, como la etnia, la clase, la edad o el sexo, o un conjunto de valores derivados de la educación, la religión, la ocupación u otros intereses.
+
+Un buen ejemplo de esto es el grupo Bloomsbury de principios del siglo XX. Compuesto por autores y artistas, el grupo tomó forma en torno a una serie de ideales  sobre el arte, la vida, la sexualidad y la política. Entre los integrantes estaba Virginia Uolf y el economista John Maynard Keins, que era el nodo central o concentrador de la red.
+La jerarquía también funciona así. La diferencia, sin embargo, es que todas las conexiones descienden desde arriba. El nodo "central" es de hecho el vértice de la pirámide.
+Todo el mundo está conectado a la cima, con distintos grados de separación. Pero, a medida que avanza por la pirámide, hay cada vez menos conexiones horizontales entre los nodos individuales.
+----
+c2:
+Sabemos que una red funciona mejor cuanto más interconectados están los nodos. Podemos saber su importancia, analizando su centralidad relativa: midiendo el número de conexiones, cuántificando la información que transmiten o por los pasos que lo separan de otros nodos.
+
+Pero no solo importan las conexiones sólidas y directas. Los lazos débiles también son vitales, aunque sucedan entre diferentes redes.
+
+Podemos entender cómo funcionan los lazos débiles a través del experimento realizado por el profesor de Stanford, Stanley Mílgram a finales de la década de 1960.
+Mílgram envió cartas a personas seleccionadas al azar y les pidió que las enviaran a personas específicas, es decir, a otros nodos.
+En algunos casos, los destinatarios conocían a la persona y enviaron la carta directamente. El grado de separación fue uno.
+Pero otros no conocían al destinatario final previsto y tuvieron que recurrir a intermediarios. El grado de separación aumentaba en uno con cada intermediario.
+En promedio, se encontró que el grado de separación entre dos personas era de seis. 
+Este es un gran ejemplo de la importancia de los lazos débiles en la conexión de diferentes redes. Si nuestras conexiones estuvieran estrictamente limitadas a nuestras propias redes, las personas no podrían comunicarse e interactuar con diferentes grupos. Los vínculos débiles son los puentes entre diferentes mundos sociales.
+Estos lazos no son la única forma de conectar diferentes redes. Cuando faltan, los brokers o intermediarios pueden desempeñar un papel vital.
+Las mujeres que dirigían los salones literarios de París, conocidas como salonniérs, hicieron exactamente eso. Al acoger a pensadores de la Ilustración y revolucionarios de diferentes grupos, facilitaron un diálogo entre grupos que de otro modo habrían permanecido divididos por clases y educación. Esto creó las condiciones para la Revolución Francesa
+----
+c3:
+Retrocedamos un poco en el tiempo para ver la influencia de las redes.
+A principios del siglo XVI, el mundo estaba dividido en alrededor de 30 imperios, ducados y reinos, cada uno gobernado por individuos poderosos, que mandaban en una estructura muy jerarquizada. Pero estaban surgiendo dos redes que harían temblar los cimientos de este viejo orden.
+La primera fue producto de la exploración del mundo por España y Portugal.
+En las primeras décadas del siglo, estas dos naciones construyeron elaboradas redes comerciales globales que abarcaron desde el este de África hasta Goa, en el sureste de la India y Guangdong, en China.
+Entonces, ¿que impulsó esta expansión?
+Hubo dos factores. Por un lado, las nuevas tecnologías, incluidos mejores barcos y mapas más precisos. Pero por el otro, las redes sociales jugaron un papel importante. Los marineros, por ejemplo, compartían cada vez más sus nuevos conocimientos de navegación marítima.
+La vasta red comercial fue un poderoso ariete contra la jerarquía y llegaron a desafiarel orden establecido.
+
+Mientras tanto, en Europa central, una nueva innovación, la imprenta de Gutenberg, estaba impulsando la aparición de otra red.
+Antes de la imprenta, el acceso a los libros y textos estaba restringido a los ricos y poderosos en la cima de la jerarquía social. Las iglesias y los tribunales eran los nodos centrales en la circulación del material escrito.
+
+La imprenta cambió todo eso y comenzaron a surgir nuevas redes de información en toda Europa. 
+Gutenberg instaló la primera imprenta a mediados del siglo XV en Alemania. A principios del siglo XVI, un veinte por ciento de todas las ciudades suizas, danesas, holandesas y alemanas tenían sus propias imprentas.
+Esto no solo favoreció la disponibiliad sino que los hizo más asequibles. Por ejemplo, Inglaterra. El precio de los libros cayó un 66 por ciento entre 1450 y 1500. Y mantendría esta tendencia hasta alcanzar un 90 por ciento!
+----
+c4:
+El auge de la imprenta no solo se hizo sentir en la caída de los precios de los libros.
+La circulación de material escrito también preparó el escenario para un gran desafío a la jerarquía: la Reforma.
+La jerarquía central en Europa era la Iglesia Católica. 
+La imprenta facilitó la difusión de las tesis del sacerdote alemán Martin Lutero, que provocaron un cisma en 1517.
+En los viejos tiempos, los posibles lectores de las ideas de Lutero habrían tenido que esperar a que alguien las copiara a mano. Ahora, era solo cuestión de meses antes de que pudieran leerse en Leipzig, Basilea y Nuremberg.
+A lo largo del siglo, las imprentas alemanas publicaron alrededor de 5000 ediciones. Ocho de cada diez estaban en alemán en lugar de latín, lo que significaba que la gente común también podía leerlos.
+Un fenómeno viral en toda regla, que se propagó como una enfermedad contagiosa. Los ciudadanos en lugares con múltiples imprentas eran los más propensos a convertirse al protestantismo, mientras que la población de las ciudades sin prensa, demostró ser casi inmune al nuevo credo. 
+
+Los católicos intentaron reprimir el protestantismo. Pero las redes establecidas por la nueva secta eran sorprendentemente resistentes.
+Y es que eliminar una red es complicado. A diferencia de una jerarquía, que se basa en unos pocos nodos altamente centralizados que pueden eliminarse rápidamente, las redes se distribuyen de manera más uniforme.
+
+El éxito de la Reforma provocó otro gran movimiento. Al socavar el dogma católico y deshacer su dominio sobre la vida intelectual, el nuevo credo religioso alentó a los librepensadores. Esta fue la base de las revoluciones científicas del siglo XVII.
+
+Personas como Isaac Newton, no solo eran libres de seguir enfoques poco ortodoxos. Gracias a la imprenta, sus ideas también fueron fáciles de difundir y rápidamente encontraron una gran audiencia.
+----
+c5:
+La imprenta, la Reforma, la revolución científica en ciernes: cada una representaba una amenaza para el orden establecido. Y, muy pronto, las jerarquías fueron desafiadas a ambos lados del Atlántico.
+En Estados Unidos, una multitud de redes asociativas ayudaron a lanzar la Revolución Americana y pusieron al país en el camino hacia la independencia.
+
+Tomemos por ejemplo Boston, Massachusetts: una ciudad que ha sido sinónimo de la revuelta contra el dominio británico, gracias a una protesta de 1773 contra las leyes fiscales que favorecían a los importadores de té británicos impulsada por el Boston Tea Party.
+Aunque la colonia era jerárquica, había varios hombres que funcionaban como vínculos débiles entre diferentes redes y ayudaron a difundir ideas revolucionarias. Cinco asociaciones en Boston, sobre todo los masones, fueron pilares centrales del movimiento de independencia.
+De los 137 miembros de las asociaciones, el 86 por ciento pertenecía a una sola organización. Pero varios de ellos eran miembros de otras.
+Gracias a estos intermediarios, surgieron redes interconectadas que ayudaron a difundir la idea de revolución en las Trece Colonias.
+
+Las redes desempeñaron un papel igualmente vital en la Ilustración y la Revolución Francesa a finales del siglo XVIII.
+Dos nodos centrales en la difusión de las ideas revolucionarias de la Ilustración fueron los filósofos Voltaire y Rousseau.
+La redacción de cartas fue fundamental para estas redes. Voltaire solo, tenía más de 1400 corresponsales. Al igual que los salones literarios, esta red de cartas conectó a diferentes pensadores y ayudó a difundir la idea del republicanismo y el gobierno del pueblo.
+Sin embargo, había una diferencia importante entre Estados Unidos y Francia. Mientras que el primero tenía una fuerte cultura asociativa, Francia era una sociedad más jerárquica. Esta diferencia se haría sentir en la revolución.
+
+La Revolución Francesa fue sangrienta. Anarquía, masacres y terror acompañaron el nacimiento de la República. Al final, los jacobinos crearon el Comité de Seguridad Pública en un intento de imponer un orden jerárquico a las masas sedientas de sangre. Una jerarquía reemplazó a otra. En lugar del rey vino la dictadura revolucionaria que finalmente allanaría el camino para el imperio napoleónico y una nueva jerarquía europea.
+----
+c6:
+Pocos acontecimientos históricos parecen más improbables que el ascenso de un desconocido soldado corso a emperador de Francia. Pero la Revolución Francesa había cambiado las cosas. Este era un mundo nuevo donde todo era posible, y Napoleón Bonaparte selló su nombre en los libros de historia.
+Después de conquistar la mayor parte de Europa, Napoleón no solo volvió a imponer una jerarquía estricta en Francia; inadvertidamente lo volvió a imponer en toda Europa.
+
+Para derrotar a Francia, los enemigos de Napoleón tuvieron que unir fuerzas en una alianza. Una vez que lo derrotaron, rápidamente impusieron un acuerdo jerárquico en todo el continente que solo sería desafiado un siglo después.
+Cinco poderes eran fundamentales para el nuevo orden. Gran Bretaña, Prusia, Austria y Rusia, las naciones que habían puesto fin al intento de dominación de Napoleón, se unieron a Francia en 1818, formando una pentarquía que gobernaría Europa durante los próximos 100 años.
+Estas potencias acordaron celebrar reuniones periódicas para mantener la paz y la prosperidad en Europa. El anteproyecto vió la luz en el Congreso de Viena de 1815.
+El sistema que construyeron fue eficaz. Entre 1715 y 1815, Europa fue devastada por 33 guerras. Entre 1815 y el estallido de la Primera Guerra Mundial, en 1914, solo hubo 17. 
+Entonces, ¿cuál fue el secreto de la longevidad de este nuevo orden?
+En una palabra, redes. El acuerdo de 1815 creó una nueva red de jerarquías interconectadas.
+Cada uno de los cinco poderes clave de la pentarquía era un centro en una red paneuropea. Debido a que esto mantuvo abiertas las líneas de comunicación, los poderes pudieron resolver conflictos y disputas entre sus miembros.Todos aceptaban que la pentarquía tenía la última palabra en cualquier asunto. Antes de 1914, no hubo una sola ocasión en la que las cinco potencias fueran simultáneamente a la guerra.
+----
+c7:
+
+En el siglo XIX, Gran Bretaña comenzó a superar a sus amigos y rivales y pronto se convirtió en la nación más poderosa del mundo. 
+¿Cómo lo logró?
+Parte de su éxito se debió al uso de las jerarquías existentes en su red imperial.
+Una figura destacada fue Frederick Lugard, administrador colonial británico y el arquitecto de las políticas del Imperio Británico en África Occidental. Fue pionero del "gobierno indirecto", un sistema que incorporó instituciones jerárquicas locales en las propias estructuras del imperio.
+Eso significaba devolver el poder a los jefes y subdirectores y permitirles mantener a raya a quienes alguna vez habían sido sus propios súbditos. Si se les concedía un título británico y se les permitía una cantidad limitada de libertad, estos hombres aceptaban trabajar para el imperio.
+
+Pero el Imperio Británico también era una red tecnológica.
+La Revolución Industrial y el surgimiento de fuertes redes capitalistas de bancos y otras instituciones permitieron financiar una infraestructura tecnológica vital. Los ferrocarriles, las redes de telegramas y el transporte marítimo mejorado pronto conectaron los rincones más remotos del imperio.
+En la India del siglo XIX, por ejemplo, se instalaron más de 40 mil kilómetros de vías férreas. Eso conectó al país como nunca antes.
+
+Esta revolución de las comunicaciones sentó las bases para la globalización y estableció las condiciones para las primeras migraciones masivas de la era moderna. Viajar era más rápido y más barato.Entre 55 y 58 millones de europeos dejaron atrás el viejo mundo y zarparon hacia las Américas, mientras que otros 50 millones de indios y chinos buscaron fortuna en el sudeste asiático.
+
+----
+c8:
+Otra red que había crecido rápidamente a finales del siglo XIX y principios del XX fue el socialismo.
+En Octubre de 1917, el Partido bolchevique, dirigido por Lenin derrocó al gobierno provisional e inició una nueva era.
+Los bolcheviques tuvieron éxito porque, a diferencia de sus oponentes , estaban integrados en una red. Estaban bien conectados y su ideología se extendió como un virus.
+
+La muerte de Lenin resultó en un período de amargas luchas internas hasta que Josef Stalin salió victorioso e impuso una jerarquía extrema. Los ciudadanos temerosos de ser ejecutados o de acabar terminar en un Gulag, se aislaron y se convirtieron en islas desconectadas en un mar de terror.
+Mientras Stalin apuntalaba su régimen, otra ideología letal ascendía en Alemania.
+Los nazis también comenzaron como una red. Pero a diferencia de otros movimientos fascistas, que habían ganado impulso en toda Europa como resultado de la Depresión en la década de 1930, los nazis tomaron el poder a través de las urnas.
+Eso los hizo muy singulares, únicos. De hecho, de todos los votos emitidos a favor de los partidos fascistas en Europa entre 1930 y 1935, el 96 por ciento fueron registrados por alemanes. El voto nazi se multiplicó por tres cada dos años después de 1928, especialmente en las ciudades, donde ya existían grandes redes.
+El surgimiento de la red nazi también resultó en una desconexión generalizada. El partido sembró el miedo entre la población y, pronto, los alemanes también se aterrorizaron con sus vecinos.
+El "Tercer Raich" no sobrevivió a la derrota de Alemania en la Segunda Guerra Mundial. La Unión Soviética Comunista, por el contrario, sí lo hizo. En la era de la posguerra, competiría con una nueva superpotencia por el dominio mundial: Estados Unidos y sus aliados de la OTAN.
+----
+c9:
+El período de posguerra fue definido por la Guerra Fría, un conflicto entre dos estructuras masivas y jerárquicas: la alianza de la OTAN liderada por Estados Unidos y el Pacto de Varsovia liderado por los soviéticos.
+
+Aunque ambas alianzas eran redes, cada una estaba organizada jerárquicamente en torno a un eje central: los Estados Unidos, por un lado, y la Unión Soviética, por el otro. En ambas redes, las decisiones y la información fluían desde el centro hacia la periferia.
+
+A pesar de esto, las redes no desaparecieron por completo. De hecho, regresaron de forma espectacular a finales del siglo XX, sobre todo en los países comunistas.
+
+Después de permanecer dormido durante el duro período estalinista, los primeros brotes de asociaciones comenzaron a resurgir en la década de 1970 cuando el miedo comenzó a ceder.
+
+Este desarrollo fue más pronunciado en Polonia, donde los disidentes de la clase trabajadora, los liberales, académicos y los católicos comenzaron a conectarse entre sí. Esta red creció rápidamente entre 1969 y 1977. En la década de 1980, el sindicato Solidaridad se había convertido en su nodo central.
+
+El gobierno intentó tomar medidas enérgicas contra estas nuevas redes, pero su influencia siguió creciendo. En junio de 1989, Solidaridad finalmente logró presionar al Partido Comunista para que aceptara elecciones libres, y posteriormente el sindicato ganó la contienda electoral.
+
+Eso desencadenó una reacción en cadena en toda Europa del Este. En septiembre de 1989, Hungría también había adoptado elecciones libres. Y en noviembre cayó el Muro de Berlín.
+
+Los intransigentes del Partido Comunista Soviético intentaron un golpe de Estado en agosto de 1991. Después de su fracaso, la Unión Soviética también se derrumbó. Una de las dos estructuras jerárquicas dominantes del siglo XX había desaparecido.
+----
+c10:
+En la década de 1970, las estructuras jerárquicas también estaban en declive en los Estados Unidos. El movimiento en red por los derechos civiles había hecho retroceder las instituciones de segregación racial. Y otras jerarquías comenzaban a parecer igualmente frágiles.
+El mundo se estaba volviendo menos rígido. Henry Kissinger lo llamó una era de "interdependencia". Los diferentes nodos ya no podrían existir de forma aislada. 
+
+A principios de los ochenta y en la medida que las viejas estructuras jerárquicas se derrumbaron, nacía el fenómeno que visibiliza de forma más sencilla el concepto de red: Internet. 
+
+Aunque partió inicialmente de la idea de conectar sólo dos ordenadores, la necesidad de ampliarlo a una red mayor, los llevó a desarrollar un protocolo específico. Y una vez, hubo herramientas de publicación disponibles, Internet explotó. En muy poco tiempo se convirtió en una vasta telaraña de contenido creada por usuarios. Aún hoy no existe una sola autoridad central que controle los nodos individuales. La web  está regulada sólo por sus usuarios, quienes son libres de agregar y eliminar enlaces cuando lo deseen. 
+Al igual que la imprenta en el siglo XVI, Internet se convirtió en un vector de ideas y mensajes virales. 
+----
+c11:
+Esta nueva era de la información tuvo una puesta en escena impactante y estrechamente vinculado a las redes: los ataques terroristas del 11 de septiembre de 2001. 
+
+Los perpetradores pertenecían a una red: el grupo al-Qaeda.
+El análisis de la red mostró que los terroristas tenían pocos vínculos débiles: Un solo hombre, Mohammed Atta, sirvió como nodo crucial dentro del grupo. Con conexiones con 16 de los 19 secuestradores y con otras 15 personas importantes fuera del grupo, Atta tenía la centralidad de intermediación más alta .
+
+La respuesta a los ataques no se hizo esperar. Además de apuntar directamente a Al Qaeda en Afganistán, Estados Unidos buscó derrocar la dictadura jerárquica de Saddam Hussein en Irak.
+Eso creó un vacío de poder en ese país; un vacío que pronto fue llenado por nuevas redes islamistas. 
+Pero ese no ha sido el único cambio impulsado por la red en el Medio Oriente. La Primavera Árabe comenzó en el norte de África antes de extenderse a otros países como Siria. Las plataformas de redes sociales, jugaron un papel vital en hacer correr la voz en las luchas contra las dictaduras jerárquicas de la región.
+
+A medida que los viejos regímenes se derrumbaron, surgieron nuevas redes. El Estado Islámico es quizás el más conocido de ellos. ISIS ha hecho uso de una red abierta, así como de sitios como Twitter, Facebook y YouTube, para difundir su mensaje y hacer viral su ideología.
+
+La administración Obama siguió una estrategia de decapitación contra el grupo pero, como la Hidra del antiguo mito griego, parecía que le crecían dos nuevas cabezas por cada una que perdía.
+Este error también se cometió fuera de Oriente Medio y ha demostrado que las redes también pueden desafiar las jerarquías en Occidente.
+----
+c12:
+En Gran Bretaña, el grupo pro-Bréxit Vout Liif sabía que estaba en grave desventaja cuando el primer ministro, David Cameron, convocó el referéndum sobre la membresía de Gran Bretaña en la Unión Europea. La mayoría de las instituciones jerárquicas del Reino Unido estaban a favor de permanecer en la UE.
+
+Sin embargo, Dominic Cummings, el cerebro detrás de Vout Liif, vió la oportunidad de triunfar usando las redes sociales para difundir mensajes como una inminente adhesión de Turquía a la Unión Europea o la promesa de que el Bréxit liberaría 350 millones de libras esterlinas a la semana para el Servicio Nacional de Salud (NHS).
+Se enviaron cerca de mil millones de estos mensajes  antes del referéndum, llegando a un gran número de votantes potenciales y sus redes. Sus oponentes, en cambio, se centraron casi por completo en las técnicas tradicionales de campaña. El resultado es conocido por todos.
+
+Al otro lado del Atlántico, Donald Trump usó la misma estrategia.
+Su éxito, como el de Vout Liif, fue producto de un hecho simple pero vital: en los Estados Unidos, alrededor de la mitad de la población se mantiene informado sólo a través de los feeds de Facebook.
+Eso permitió a Trump salir con ventaja. Tenía más seguidores en las redes que su oponente y eran más militantes.Trump cuadriplicaba la cifra de retweets de Clinton.
+Un aspecto clave de las campañas en las redes sociales, es que son más efectivas cuando se mueven offline; cuando las personas comienzan a discutir tweets en bares o reuniones sociales. Pero, para que eso suceda, tienen que ser lo suficientemente interesantes, impactantes o provocativas.Las de Trump lo eran. Y en ese sentido, siguió el rastro abierto por la campaña Vout Liif de Cummings.
+----
+c13:
+A menos que se imponga una regulación, es probable que el futuro esté más interconectado y sea mucho más caótico.
+Las redes y las revoluciones han ido de la mano durante mucho tiempo. Pero, ¿qué significa eso para nosotros?
+Bueno, gracias a Internet podríamos estar en la cúspide de una época tan revolucionaria como la que siguió a la invención de la imprenta.
+La analogía es sorprendente, pero hay un par de diferencias.
+En primer lugar, Internet se ha extendido mucho más rápidamente que los libros impresos y la alfabetización en los siglos XV y XVI. Considere este hecho extraordinario. En 1998, solo el 2% de la población mundial estaba en línea y hoy ronda el 40%.
+La suerte de las figuras pioneras de las dos tecnologías no podría ser más diferente. Mientras que ahora son multimillonarios, Johann Gutenberg quebró.
+El auge de Internet puede haber dado lugar a visiones románticas de la democratización del conocimiento, pero las cosas no han salido de esa manera. La tecnología se ha convertido en un oligopolio en el que las grandes empresas estadounidenses disfrutan de un dominio absoluto y han tomado todas las medidas posibles para garantizar que su posición en el mercado sea inexpugnable.
+Eso significa que las nuevas redes son menos abiertas y pueden manipularse para difundir noticias falsas. Los trolls y terroristas 
+han demostrado cuán efectivas pueden ser estas redes como canales para su propaganda.
+Entonces, ¿cuál es la solución?
+Un buen lugar para comenzar sería conciliar jerarquías y redes.
+Sin reconciliar estos dos aspectos del mundo contemporáneo, existe el peligro de provocar una reacción populista y un giro hacia el autoritarismo. A día de hoy, es difícil conseguir una receta precisa.
+
+Desde la invención de la imprenta en la Europa del siglo XV, las redes impulsadas por la tecnología han difundido nuevas ideas radicales, desestabilizado las jerarquías existentes y dado forma a la historia del mundo.

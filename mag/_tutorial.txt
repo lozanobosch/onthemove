@@ -1,3 +1,5 @@
+_tutorial:
+
 Este es el sistema que uso para generar el archivo de audio. En un video anterior habíamos mostrado a grandes rasgos como funcionaba.Ahora vamos a ver el detalle.
 Tengo Jupyter notebook instalado en mi ordenador. La versión que ves en pantalla es la misma que tenía en Google Colab. Lo ejecuto en local porque la descarga de los ficheros de audio es muy lenta, una vez los he generado.
 Como sabes los ficheros los tengo en Github y uso jsdeliver como CDN. No hay que hacer nada especial para usar este CDN. Basta con indicar el repositorio y el fichero. Si voy a la url veo el contenido que luego convertiré en audio.
@@ -13,6 +15,7 @@ n está
  para acbar fusiono los audios con un utilitario.
  
 Como ves la ventaja de jupyter es que queda todo documentado y puedes reproducir paso a paso los errores como si fuera un debuguer.
-Por último un bonus track
+Por último un bonus track. 
+
  
  

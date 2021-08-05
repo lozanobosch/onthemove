@@ -1,0 +1,18 @@
+Este es el sistema que uso para generar el archivo de audio. En un video anterior habíamos mostrado a grandes rasgos como funcionaba.Ahora vamos a ver el detalle.
+Tengo Jupyter notebook instalado en mi ordenador. La versión que ves en pantalla es la misma que tenía en Google Colab. Lo ejecuto en local porque la descarga de los ficheros de audio es muy lenta, una vez los he generado.
+Como sabes los ficheros los tengo en Github y uso jsdeliver como CDN. No hay que hacer nada especial para usar este CDN. Basta con indicar el repositorio y el fichero. Si voy a la url veo el contenido que luego convertiré en audio.
+Aqui lo ves. Si te fijas voy creando secciones porque la API se Google tiene un máximo de 5000 caracteres. La primera es el título que el programa escogera para crear la carpeta y la reutilizo para nombrar el primer fichero.
+Ahora veamos el script. Lo he simplificado porque algunas librerías ya están instaladas.
+Si otra persona lo fuera a utilizar, tendría que hacer 2 cosas:
+La primera cambiar el json con las credenciales de Google Text to Speech y la segunda cambiar los enlaces del CDN. Como ves he creado un í
+ndice y enla medida que la edició
+n está
+ corregida lo copio en el listado de urls. Puedo hacer uno o varios ficheros cada vez que lo ejecuto.
+ El resultado lo guarda en una carpeta. Para que veas el tiempo voy grabar un audio de 20 minutos.
+ 
+ para acbar fusiono los audios con un utilitario.
+ 
+Como ves la ventaja de jupyter es que queda todo documentado y puedes reproducir paso a paso los errores como si fuera un debuguer.
+Por último un bonus track
+ 
+ 

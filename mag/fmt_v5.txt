@@ -1,0 +1,28 @@
+fmt_v5:
+
+File Maker es una plataforma que nos permite construir aplicaciones que se adaptan exactamente a lo que necesitamos. 
+Las ventajas con relación a las aplicaciones prefabricadas es enorme.
+En las aplicaciones personalizadas la curva de aprendizaje para los usuarios finales es prácticamente inexistente. Estas aplicaciones pueden ir evolucionando en la medida que la empresa o sus empleados lo necesiten.
+
+Como plataforma, File Maker es única. Combina un motor de base de datos con herramientas de creación de interfaces. Esto nos permite crear, modificar o borrar la información y también crear informes complejos de todo tipo. También nos permite exportar los datos en varios formatos, incluyendo excel y csv. Cientos de usuarios pueden acceder a la aplicación resultante de forma simultánea, desde un móvil o un navegador web. 
+File Maker tiene más de 30 años en el mercado y es, sin lugar a dudas, una sofisticada arma de digitalización masiva.
+Es un un producto de Claris, una empresa que pertenece a Apple.
+
+No existe ningún prerequisito para aprender a construir aplicaciones en esta plataforma. En la comunidad de desarrolladores, hay profesionales de todo tipo - desde médicos hasta arquitectos-, pero también estudiantes y autodidactas. Lo único que necesitas es tener curiosidad o sencillamente querer aprender cómo construir cualquier aplicación desde cero.
+
+La plataforma tiene 2 componentes esenciales.
+La aplicación File Maker Pro que nos permite construir aplicaciones de base de datos.
+
+Y File Maker server: que es una aplicación de servidor que nos permite usar las aplicaciones en la nube. Podemos acceder a ella utilizando cualquier navegador. También lo podemos hacer con la aplicación gratuita para dispositivos móviles o usando con el mismo File Maker Pro, tanto en Windows como en Mac. 
+El conjunto de tecnologías que nos permite acceder via web, Claris lo denomina Webdirect. 
+El interfaz es prácticamente idéntico al que vemos en la aplicación de escritorio. 
+Este interfaz web se construye sin usar una sóla línea de código en HTML, CSS o Lláva script, ni necesita ningún otro lenguaje de servidor. Es sencillamente increíble.
+
+Una vez alojado en el servidor, también podemos compartir  los datos con otros sistemas, mediante el protocolo estándar de bases de datos - llamado ODBC- o mediante su potente API de datos.
+
+Pero la versatilidad de Filemaker no termina aqui: los usuarios más avanzados usan Lláva Script en un componente web que tiene Filemaker, que permite crear interfaces y aplicaciones sosfisticadas, a la altura de las aplicaciones de Business Intelligence. Y a través de funcionalidades como cURL y plugins permite integrar aplicaciones externas de todo tipo: desde pasarelas de pago hasta modelos de Machine learning. 
+Las posibilidades de Filemaker sólo tienen el límite de nuestra imaginación.
+
+
+
+

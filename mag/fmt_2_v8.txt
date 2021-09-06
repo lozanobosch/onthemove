@@ -1,7 +1,7 @@
-_fmt_2_v7:
+_fmt_2_v8:
 
-Una base de datos es simplemente un conjunto de datos estructurados con un contexto. Una agenda de teléfonos, un listado de libros, el conjunto de llamadas de nuestra factura de teléfonos o nuestro historial médico, son ejemplos claros de datos con estas características. 
-Dicho de forma muy simple, una base de datos la constituyen tablas con nombres de columnas o campos para identificar el contenido, y
+Una base de datos es simplemente un conjunto de datos estructurados con un contexto... Una agenda de teléfonos, un listado de libros, el conjunto de llamadas de nuestra factura de teléfonos o nuestro historial médico, son ejemplos claros de datos con estas características. 
+Dicho de forma muy simple, una base de datos la constituyen tablas con nombres de columnas o campos para identificar el contenido, y...
 
 
   tantas filas o registros como información querramos almacenar. 

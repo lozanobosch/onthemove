@@ -1,4 +1,4 @@
-_fmt:
+e_fmt:
 
 File Maker es una plataforma que le permite construir aplicaciones que se adaptan exactamente a lo que necesitamos. Las ventajas con relación a las aplicaciones prefabricadas es enorme.
 En las aplicaciones personalizadas la curva de aprendizaje es prácticamente inexistente. Estas aplicaciones pueden ir evolucionando en la medida que la empresa o sus empleados lo necesiten.

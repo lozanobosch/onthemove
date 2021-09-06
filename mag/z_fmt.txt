@@ -1,4 +1,4 @@
-y_fmt:
+z_fmt:
 
 FileMaker es una plataforma que nos permite construir aplicaciones que se adaptan exactamente a lo que necesitamos. 
 Las ventajas con relación a las aplicaciones prefabricadas es enorme.
@@ -15,13 +15,8 @@ La aplicación Filemaker Pro que nos permite construir aplicaciones de base de d
 
 Y Filemaker server: que es una aplicación de servidor que nos permite acceder a la aplicaciones que construimos, mediante cualquier navegador, la aplicación gratuita para dispositivos móviles o usando  Filemaker Pro en Windows o Mac. El conjunto de tecnologías que nos permite acceder via web, Claris lo denomina Webdirect. 
 El interfaz es prácticamente idéntico al que vemos en la aplicación de escritorio. 
-Este interfaz web se construye sin usar una sóla línea de código en HTML, CSS o Yáva script, ni necesita ningún otro lenguaje de servidor. Es sencillamente increíble.
+Este interfaz web se construye sin usar una sóla línea de código en HTML, CSS o Lláva script, ni necesita ningún otro lenguaje de servidor. Es sencillamente increíble.
 
 Una vez alojado en el servidor, también permite compartir  los datos con otros sistemas, mediante el protocolo estándar de bases de datos - llamado ODBC- o mediante su potente API de datos.
-
-javascript
-Java script
-Lláva Script
-Yávas cript
 
 

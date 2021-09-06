@@ -1,3 +1,5 @@
+_fmt:
+
 FileMaker es una plataforma de base de datos que permite construir aplicaciones  para satisfacer las necesidades exactas de cualquier negocio, en lugar de obligarlo a adaptarse a aplicaciones prefabricadas, ya sean comerciales u open source. la ventaja de poder hacer aplicaciones personalizadas es enorme: la curva de aprendiza es practicamente inexistente y permite que las aplicaciones evolucionen a la par con las necesidades de una empresa determinada. Nos gusta decir que Filemaker es una arma de digitalización masiva.
 
 Esta plataforma es única porque combina una base datos con la herramienta que permite gestionar su estructura y construir interfaces que permite interactuar con los datos ; es decir crearlos, buscarlos, actualizarlos o borrarlos. Podemos construir aplicaciones al que pueden acceder cientos de usuarios simultáneamente desde su movil o un navegador. 

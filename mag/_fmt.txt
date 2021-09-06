@@ -1,7 +1,7 @@
 e_fmt:
 
-File Maker es una plataforma que le permite construir aplicaciones que se adaptan exactamente a lo que necesitamos. Las ventajas con relación a las aplicaciones prefabricadas es enorme.
-En las aplicaciones personalizadas la curva de aprendizaje es prácticamente inexistente. Estas aplicaciones pueden ir evolucionando en la medida que la empresa o sus empleados lo necesiten.
+File Maker es una plataforma que le permite construir aplicaciones que se adaptan exactamente a lo que necesitan las empresas. Las ventajas con relación a las aplicaciones prefabricadas es enorme.
+En las aplicaciones personalizadas, la curva de aprendizaje es prácticamente inexistente. Estas aplicaciones pueden ir evolucionando en la medida que la empresa o sus empleados lo necesiten.
 
 Como plataforma, File Maker es única.
 Combina un motor de base de datos con herramientas de creación de interfaces que permiten trabajar con los datos que almacena. Esta información pueden ser accesibles para cientos de usuarios simultáneamente, desde un móvil o un navegador web. Filemaker es un producto de Claris, una empresa que pertenece a Apple.

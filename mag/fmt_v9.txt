@@ -1,4 +1,4 @@
-fmt_v8:
+fmt_v9:
 
 Claris File Maker es una plataforma que nos permite construir aplicaciones que se adaptan exactamente a lo que necesitamos. 
 Las ventajas con relación a las aplicaciones prefabricadas es enorme.
@@ -17,7 +17,7 @@ Este interfaz web se construye sin usar una sóla línea de código en HTML, CSS
 
 Una vez alojado en el servidor, también podemos compartir  los datos con otros sistemas, mediante el protocolo estándar de bases de datos - llamado ODBC- o mediante su potente API de datos.
 
-Pero la versatilidad de Filemaker no termina aqui: los usuarios más avanzados usan Lláva Script en un componente web que tiene Filemaker, que permite crear interfaces y aplicaciones sofisticadas, a la altura de las aplicaciones de Business Intelligence. Y a través de funcionalidades como cURL y plúguins permite integrar aplicaciones externas de todo tipo: desde pasarelas de pago hasta modelos de Machínn learning. 
+Pero la versatilidad de Filemaker no termina aqui: los usuarios más avanzados usan Lláva Script en un componente web que tiene Filemaker, que permite crear interfaces y aplicaciones sofisticadas, a la altura de las aplicaciones de Business Intelligence. Y a través de funcionalidades como cURL y plúggins permite integrar aplicaciones externas de todo tipo: desde pasarelas de pago hasta modelos de Machínn learning. 
 Las posibilidades de Filemaker sólo tienen el límite de nuestra imaginación.
 
 

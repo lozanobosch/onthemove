@@ -1,4 +1,4 @@
-_fmt_2_v97:
+_fmt_2_v98:
 
 Una base de datos es simplemente un conjunto de datos estructurados con un contexto... Una agenda de teléfonos, un listado de libros, el conjunto de llamadas de nuestra factura de teléfonos o un historial médico, son ejemplos claros de datos con estas características. 
 Dicho de forma muy simple, una base de datos la constituyen tablas con nombres de columnas o campos para identificar el contenido, y
@@ -22,7 +22,7 @@ Aquí vemos otra característica importante de las bases de datos. Cada registro
 
 File Maker es una base de datos relacional porque permite este tipo de vinculación entre sus tablas de datos... Hasta este punto no hay ninguna diferencia con otras bases de datos como Oracle, SQL Server o MySQL... La diferencia radica en las dos capas adicionales que tiene File Maker... : una capa de presentación que permite construir el interfaz de la aplicación y... 
 
-una capa lógica, que no es más que los cálculos que usamos en los campos y las rutinas o escrípts que se ejecutan con la intervención directa o indirecta de los usuarios. 
+una capa lógica, que no es más que los cálculos que usamos en los campos y los escrípts que se ejecutan con la intervención directa o indirecta de los usuarios. 
 
 Estas tres capas es lo que hace a Filemaker singular y único. Veamos un ejemplo: si examinamos esta aplicación podemos ver sus tablas...
 
@@ -40,7 +40,11 @@ Estas tres capas es lo que hace a Filemaker singular y único. Veamos un ejemplo
 
 
 En File maker se accede a la gestión de tablas y relaciones y a los escrípts de forma directa a través del menu correspondiente... Sin embargo, la construcción del interfaz se realiza entrando a un modo que Filemaker denomina 'modo presentación'. Cuando entramos en este modo el menu superior cambia ligeramente. Los demás modos que tiene Filemaker - modo navegar, buscar o vista previa, están relacionados con el uso de los registros por el usuario final. 
-Toda la información almacenada en la base de datos sólo se puede presentar de 3 formas: como una lista de registros, como un formulario o como una tabla semejante a una hoja excel. De cara a los usuarios en la mayoría de aplicaciones sólo se usan las dos primeras... 
+Toda la información almacenada en la base de datos sólo se puede presentar de 3 formas: como una lista de registros...
+ como un formulario...
+ o como una tabla... semejante a una hoja excel. De cara a los usuarios en la mayoría de aplicaciones sólo se usan las dos primeras... 
 
 
  Con esta breve introducción, estamos listos para ver cómo funciona File Maker.
+
+

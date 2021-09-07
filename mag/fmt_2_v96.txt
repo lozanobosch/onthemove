@@ -1,4 +1,4 @@
-_fmt_2_v95:
+_fmt_2_v96:
 
 Una base de datos es simplemente un conjunto de datos estructurados con un contexto... Una agenda de teléfonos, un listado de libros, el conjunto de llamadas de nuestra factura de teléfonos o un historial médico, son ejemplos claros de datos con estas características. 
 Dicho de forma muy simple, una base de datos la constituyen tablas con nombres de columnas o campos para identificar el contenido, y
@@ -10,15 +10,14 @@ Dicho de forma muy simple, una base de datos la constituyen tablas con nombres d
 Y de la misma manera que en excel identificamos una celda con el tipo de valor que contiene - ya sea texto, número, fecha o cálculo- lo hacemos en los campos de nuestras tablas en la base de datos. 
 
 
-   Como todos sabemos la tipificación del campo o celda es importante si queremos usarlo como referencia para un cálculo, ya sea concatenar texto o... 
+   Como todos sabemos la tipificación del campo o celda es importante si queremos usar las funciones según el tipo de dato que contiene...
 
-   para calcular el descuento de una factura.
-Pero hay una característica que hace que una base de datos sea diferente de una hoja electrónica. 
+ Pero hay una característica que hace que una base de datos sea diferente de una hoja electrónica. 
 
    Podemos relacionar los datos que contienen estas tablas . La razón de hacerlo es doble: para evitar la redundancia de información y ,sobre todo, reducir la posibilidad de errores.  
 
 Por ejemplo, un curso escolar puede tener varios alumnos, un médico puede tener varias visitas, un número de teléfono puede tener varias llamadas o un cliente puede tener varias facturas.
-Estas relaciones la hacemos vinculando su ID. 
+Estas relaciones la hacemos vinculando su idé. 
 Aquí vemos otra característica importante de las bases de datos. Cada registro tiene un identificador único. La relación entre tablas se realiza con este campo que tiene esa función especial. 
 
 File Maker es una base de datos relacional porque permite este tipo de vinculación entre sus tablas de datos... Hasta este punto no hay ninguna diferencia con otras bases de datos como Oracle, SQL Server o MySQL... La diferencia radica en las dos capas adicionales que tiene File Maker... : una capa de presentación que permite construir el interfaz de la aplicación y... 
@@ -40,8 +39,8 @@ Estas tres capas es lo que hace a Filemaker singular y único. Veamos un ejemplo
    y sus escrípts...
 
 que pueden asignarse a un botón, un campo o a una presentación...
-En File maker se accede a la gestión de tablas y relaciones y a los scripts de forma directa a través del menu correspondiente pero la construcción del interfaz se realiza entrado a un modo que denomina presentación. Cuando entramos en este modo el menu superior cambia ligeramente con las opciones de este modo. Los demás modos que tiene Filemaker - modo navegar, buscar o vista previa, están relacionados con el uso de los registros por el usuario final. 
-Toda la información almacenada en la base de datos sólo tiene 3 formas de presentarlas en pantalla: como una lista de registros, como un formulario o como una tabla semejante a una hoja excel. De cara a los usuarios en la mayoría de aplicaciones sólo se usan las dos primeras... 
+En File maker se accede a la gestión de tablas y relaciones y a los escrípts de forma directa a través del menu correspondiente pero la construcción del interfaz se realiza entrando a un modo que denomina presentación. Cuando entramos en este modo el menu superior cambia ligeramente. Los demás modos que tiene Filemaker - modo navegar, buscar o vista previa, están relacionados con el uso de los registros por el usuario final. 
+Toda la información almacenada en la base de datos sólo se puede presentar de 3 formas: como una lista de registros, como un formulario o como una tabla semejante a una hoja excel. De cara a los usuarios en la mayoría de aplicaciones sólo se usan las dos primeras... 
 
 
  Con esta breve introducción, estamos listos para ver cómo funciona File Maker.

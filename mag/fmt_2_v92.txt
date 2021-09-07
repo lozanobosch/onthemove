@@ -1,4 +1,4 @@
-_fmt_2_v91:
+_fmt_2_v92:
 
 Una base de datos es simplemente un conjunto de datos estructurados con un contexto... Una agenda de teléfonos, un listado de libros, el conjunto de llamadas de nuestra factura de teléfonos o nuestro historial médico, son ejemplos claros de datos con estas características. 
 Dicho de forma muy simple, una base de datos la constituyen tablas con nombres de columnas o campos para identificar el contenido, y
@@ -19,7 +19,7 @@ Pero hay una característica que hace que una base de datos sea diferente de una
 
 Por ejemplo, un curso escolar puede tener varios alumnos, un médico puede tener varias visitas, un número de teléfono puede tener varias llamadas o un cliente puede tener varias facturas. 
 
-File Maker es una base de datos relacional porque permite este tipo de vinculación entre sus tablas de datos... Hasta este punto no hay ninguna diferencia con otras bases de datos como Óracol, SQL Server o MySQL... La diferencia radica en las dos capas adicionales que tiene File Maker... : una capa de presentación que permite construir el interfaz de la aplicación y... 
+File Maker es una base de datos relacional porque permite este tipo de vinculación entre sus tablas de datos... Hasta este punto no hay ninguna diferencia con otras bases de datos como Oracle, SQL Server o MySQL... La diferencia radica en las dos capas adicionales que tiene File Maker... : una capa de presentación que permite construir el interfaz de la aplicación y... 
 
 una capa lógica, que no es más que los cálculos que usamos en los campos y en las rutinas o escrípts que se ejecutan con la intervención directa o indirecta de los usuarios. 
 
@@ -39,4 +39,7 @@ Estas tres capas es lo que hace a Filemaker singular y único. Veamos un ejemplo
 
 que pueden asignarse a un botón, un campo o a una presentación.
 
+Vamos a cerrar el fichero y ver la personalización mínima que hemos hecho en las preferencias y la barra de estado del programa. En Mac las preferencias están bajo el menú de File Maker Pro y en Windows bajo el menu de Edición. En las preferencias hemos definido el usuario por defecto y marcado la opción de usar herramientas avanzadas. Esto me permite acceder al visor de datos y al muy estimado debugger. La otra opción útil es activar que se guarden los cambios de las presentaciones de forma automática
+El otro cambio lo hemos hecho en la barra de estado. File Maker permite personalizarla con separadores y botones. Vamos al menu ver y elegimos personalizar la barra de estatus. Para agregar o borrar simplemente arrastro fuera o dentro los botones o separadores. En nuestro caso hemos agregado el visor de datos y el debugger que no están por defecto.
+Ahora estamos listos para examinar cómo funciona File Maker.
 

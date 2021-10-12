@@ -1,0 +1,4 @@
+El objetivo de este documento es presentar la propuesta para el desarrollo de un juego de trivia para dispositivos iOS y Android y su posterior publicación en las plataformas de distribución de aplicaciones de ambos sistemas.
+Dado que la información suministrada es insuficiente y genérica, hemos basado la propuesta en las áreas que tienen otros juegos de su mismo tipo.
+Esta propuesta toma en consideración las limitaciones temporales y económicas. Plantea un producto mínimo viable que constituya una base que sea suficiente y sólida para su publicación pero evitando aquellas funcionalidades que necesiten más recursos del sistema o que alarguen los tiempos de desarrollo.
+Esta propuesta consta de los siguientes bloques:

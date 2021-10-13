@@ -16,7 +16,7 @@ El backend es una aplicación web para gestionar las preguntas, concursos y usua
 
 Tal como vemos, la aplicación móvil se divide en 3 áreas: 
 Una pantalla inicial con las opciones de registro y loguin. Está previsto que tanto el registro como el loguin se puedan realizar con una cuenta de Facebook o de Google, con el número de móvil o registrando una cuenta de correo. 
-La segunda área es la pantalla principal de la aplicación. Tendrá las opciones de ajustes de la cuenta, el ranking global, la información del usuario y los diferentes tipos de cuiz, que podremos jugar de forma individual o en grupo. Y en cada una de ellas hay opciones privadas y públicas. Las privadas son las que no publicamos los resultados o en aquellos juegos en grupo donde accedemos por invitación. La tercera área son las categorias y tipos de cuiz existentes para cada opción elegida en la pantalla principal.
+La segunda área es la pantalla principal de la aplicación. Tendrá las opciones de ajustes de la cuenta, el ranking global, la información del usuario y los diferentes tipos de cuiz, que podremos jugar de forma individual o en grupo. Y en cada una de ellas hay opciones privadas y públicas. Las privadas son las que no publicamos los resultados o en aquellos juegos en grupo donde accedemos por invitación. La tercera área son las categorías y tipos de cuiz existentes para cada opción elegida en la pantalla principal.
 
 La aplicación móvil necesita una aplicación de servidor donde se gestionan las preguntas y los usuarios. 
 
@@ -25,10 +25,10 @@ Un área inicial para logarse.
 Un área para gestionar las preguntas. 
 Un Área de Cuiz. Desde aqui publicaríamos las convocatorias de concursos.
 Área con el Ranking- con las estadísticas de puntuación de los usuarios.
-También tenemos un Área de gestión de usuarios. Desde aquí podemos activar o bloquear a cualquier de ellos..
+También tenemos un Área de gestión de usuarios. Desde aquí podemos activar o bloquear a cualquiera de ellos..
 Por último, tenemos los Ajustes del sistema, donde podemos asignar perfiles, configurar idiomas y áreas. Incluye un módulo para cargar las preguntas.
 
-Para construir la aplicación tenemos una metodología constrastada. La organizamos en esprínts con entrega de bloques cada dos semanas - como máximo- y es compliance-first. Esto asegura que el cliente valida la aplicación resultante, basado en un documento de referencia, que especifica de antemano el criterio de conformidad. 
+Para construir la aplicación tenemos una metodología contrastada. La organizamos en esprínts con entrega de bloques cada dos semanas - como máximo- y es compliance-first. Esto asegura que el cliente valida la aplicación resultante, basado en un documento de referencia, que especifica de antemano el criterio de conformidad. 
 
 Este proyecto está dividido en 3 fases. 
 La Fase I equivale a un proyecto constructivo de cualquier edificio. En esta etapa definimos con detalle el producto que se desarrollará en la Fase II. En La Fase III realizamos las pruebas con los datos reales y culmina con la distribución de la aplicación.

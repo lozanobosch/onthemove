@@ -45,12 +45,9 @@ En la fase II desarrollamos la aplicación siguiendo las pautas del documento fu
 
 En la fase III cargamos los datos reales y hacemos las pruebas con los beta testers - tanto dispositivos físicos como con servicios de simulación de dispositivos. Esta fase concluye con la publicación en Google Play o el App Estor.
 
-Para completar este proyecto hemos estimado 14 semanas. Dado que el sistema de diseño lo realizamos  conjuntamente con el cliente, es el hito más crítico para cumplir la planificación, junto con las conformidades de los diferentes bloques de la Fase 1. A partir de la primera semana, del inicio de la Fase II, el cliente tendrá acceso a los utilitarios que le permitirá gestionar el sistema de preguntas.
+Para completar este proyecto hemos estimado 14 semanas. Dado que el sistema de diseño lo realizamos  conjuntamente con el cliente, es el hito más crítico para cumplir la planificación, junto con las conformidades de los diferentes bloques de la Fase 1. 
 
 Sobre el presupuesto, hemos elaborado dos opciones. En la segunda hemos fusionado algunos bloques de la Fase I y reducido horas en base a una definición funcional más sencilla y un diseño más acotado.
 
-Tener la aplicación publicado es un gran paso. Pero no podemos olvidar que el marketing y la comunicación son claves. Para empezar no es imprescindible tener la aplicación publicada. Una vez los usuarios tengan acceso a descargarla es importante tener un plan definido. Y mantener el interés o curiosidad en el producto.
+Tener la aplicación publicada es un gran paso. Pero no podemos olvidar que el marketing y la comunicación son claves.
 Más información, dudas? Sólo tiene que comunicarse con nosotros via mail o whatsapp...
-
-
-

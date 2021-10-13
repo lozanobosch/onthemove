@@ -1,0 +1,55 @@
+_trivia:
+
+El objetivo de esta presentación es explicar la propuesta para el desarrollo de un juego de trivia para dispositivos aiOS y Android. Incluye su publicación en las plataformas de distribución de aplicaciones de ambos sistemas.
+
+Dado que la información suministrada es genérica, hemos basado la propuesta en las áreas que tienen otros juegos de su mismo tipo.
+
+La propuesta se puede resumir en 4 bloques:
+Análisis previo. 
+Metodologia.
+Planificación y
+Presupuesto
+
+La solución global tiene 2 componentes: 
+la aplicación móvil y...
+el backend,  que es una aplicación web para gestionar las preguntas, concursos y usuarios.
+
+Tal como vemos, la aplicación móvil se divide en 3 áreas: 
+Una pantalla inicial con las opciones de registro y loguin. Está previsto que tanto el registro como el loguin se puedan realizar con una cuenta de Facebook, de Google, el número de móvil o registrando una cuenta de correo. 
+La segunda área es la pantalla principal de la aplicación. Tendrá las opciones de ajustes de la cuenta, el ranking global, la información del usuario y los diferentes tipos de cuiz, que podremos jugar de forma individual o en grupo. Y en cada una de ellas hay opciones privadas y públicas. Las privadas son las que no publicamos los resultados o en aquellos juegos en grupo donde accedemos por invitación.
+
+La aplicación móvil necesita una aplicación de servidor donde se gestionan las preguntas y usuarios. 
+
+El backend se divide en 6 áreas:
+Área de loguin.
+Un área para gestionar las preguntas. 
+Área de Cuiz. Desde aqui publicaríamos las convocatorias de concursos
+Área con el Ranking- que son las estadísticas de puntuación de los usuarios
+Un Área de gestión de usuarios. Aqui podemos activar o bloquear un usuario.
+Y por último, tenemos los 
+Ajustes del sistema, donde podemos asignar perfiles, configurar idiomas y áreas e incluye un módulo para cargar las preguntas.
+
+Para construir la aplicación tenemos una metodología constrastada. La organizamos en sprints con entrega de bloques cada dos semanas - como máximo- y es compliance-first. Esto asegura que el cliente valida la aplicación resultante basado en un documento de referencia, que especifica de antemano el criterio de conformidad. 
+
+Este proyecto está dividido en 3 fases. 
+La Fase I equivale a un proyecto constructivo de cualquier edificio. En esta etapa definimos con detalle el producto que se desarrollará en la Fase II. La Fase III son las pruebas con los datos reales y culmina con la distribución de la aplicación.
+Veamos cada fase en detalle.
+La fase I tiene 6 bloques:
+En la preproducción, preparamos la infrastructura que tendrá como mínimo 2 motores de base de datos, dos servidor de aplicaciones y un repositorio privado de código. Registramos un dominio para la app y evaluamos el código. También generamos un conjunto de datos de referencia para hacer los primeros test durante el desarrollo de la apliación.
+El modelo de datos es dónde definimos cada uno de los campos que son necesarios para registrar las preguntas. - por ejemplo necesitamos guardar cada pregunta, la respuesta correcta, las opciones de cada pregunta, su categoría o su nivel-. también incluimos un utilitario a aplicación a medida para gestionar y validar las preguntas que se cargarán en el sistema en producción.
+
+En los bloques de diseño, interfaz y experiencia del usuario definimos las características visuales de la aplicación: fondo, colores, tipografía, animaciones, iconografía, tono y labeling.
+Dado un aspecto clave en este tipo de aplicación es el módulo de comunicación con los servidores de base de datos, incluimos las integraciones con los diferentes sistemas en esta fase.
+Por último tenemos el documento funcional o compliance. En él se especificarán pantallas y funcionalidades que servirán para validar el desarrollo de la aplicación.
+
+En la fase II desarrollamos la aplicación siguiendo las pautas del documento funcional. 
+En la fase III cargamos los datos reales y hacemos las pruebas con los beta testers - tanto dispositivos físicos como servicios de simulación. Esta fase concluye con la publicación en Google Play o App Estor.
+
+Para completar este proyecto hemos estimado 14 semanas. Dado que el sistema de diseño lo realizamos  conjuntamente con el cliente, es el hito más crítico para cumplir la planificación, junto con las conformidades de los diferentes bloques de la Fase I. A partir de la primera semana, del inicio de la Fase II, el cliente tendrá acceso a los utilitarios que le permitirá gestionar el sistema de preguntas.
+
+Sobre el presupuesto, hemos elaborado dos opciones. En la segunda hemos fusionados algunos bloques de la Fase I y reducido horas en base a una definición funcional más sencilla y un diseño más acotado.
+
+
+
+
+

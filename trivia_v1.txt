@@ -1,6 +1,6 @@
 _trivia:
 
-El objetivo de esta presentación es explicar la propuesta para el desarrollo de un juego de trivia para dispositivos aiOS y Android. Incluye su publicación en las plataformas de distribución de aplicaciones de ambos sistemas.
+El objetivo de esta presentación es explicar la propuesta para el desarrollo de un juego de trivia para dispositivos aiOS y Android. 
 
 Dado que la información suministrada es genérica, hemos basado la propuesta en las áreas que tienen otros juegos de su mismo tipo.
 
@@ -16,7 +16,7 @@ El backend es una aplicación web para gestionar las preguntas, concursos y usua
 
 Tal como vemos, la aplicación móvil se divide en 3 áreas: 
 Una pantalla inicial con las opciones de registro y loguin. Está previsto que tanto el registro como el loguin se puedan realizar con una cuenta de Facebook o de Google, con el número de móvil o registrando una cuenta de correo. 
-La segunda área es la pantalla principal de la aplicación. Tendrá las opciones de ajustes de la cuenta, el ranking global, la información del usuario y los diferentes tipos de cuiz, que podremos jugar de forma individual o en grupo. Y en cada una de ellas hay opciones privadas y públicas. Las privadas son las que no publicamos los resultados o en aquellos juegos en grupo donde accedemos por invitación.
+La segunda área es la pantalla principal de la aplicación. Tendrá las opciones de ajustes de la cuenta, el ranking global, la información del usuario y los diferentes tipos de cuiz, que podremos jugar de forma individual o en grupo. Y en cada una de ellas hay opciones privadas y públicas. Las privadas son las que no publicamos los resultados o en aquellos juegos en grupo donde accedemos por invitación. La tercera área son las categorias y tipos de cuiz existentes para cada opción elegida en la pantalla principal.
 
 La aplicación móvil necesita una aplicación de servidor donde se gestionan las preguntas y los usuarios. 
 

@@ -25,17 +25,17 @@ Un área inicial para logarse.
 Un área para gestionar las preguntas. 
 Un Área de Cuiz. Desde aqui publicaríamos las convocatorias de concursos.
 Área con el Ranking- con las estadísticas de puntuación de los usuarios.
-También tenemos un Área de gestión de usuarios. Desde aquí podemos activar o bloquear a cualquier usuario.
-Por último, tenemos los Ajustes del sistema, donde podemos asignar perfiles, configurar idiomas y áreas e incluye un módulo para cargar las preguntas.
+También tenemos un Área de gestión de usuarios. Desde aquí podemos activar o bloquear a cualquier de ellos..
+Por último, tenemos los Ajustes del sistema, donde podemos asignar perfiles, configurar idiomas y áreas. Incluye un módulo para cargar las preguntas.
 
-Para construir la aplicación tenemos una metodología constrastada. La organizamos en esprínts con entrega de bloques cada dos semanas - como máximo- y es compliance-first. Esto asegura que el cliente valida la aplicación resultante basado en un documento de referencia, que específica de antemano el criterio de conformidad. 
+Para construir la aplicación tenemos una metodología constrastada. La organizamos en esprínts con entrega de bloques cada dos semanas - como máximo- y es compliance-first. Esto asegura que el cliente valida la aplicación resultante, basado en un documento de referencia, que especifica de antemano el criterio de conformidad. 
 
 Este proyecto está dividido en 3 fases. 
 La Fase I equivale a un proyecto constructivo de cualquier edificio. En esta etapa definimos con detalle el producto que se desarrollará en la Fase II. En La Fase III realizamos las pruebas con los datos reales y culmina con la distribución de la aplicación.
 Veamos cada fase en detalle.
 La fase I tiene 6 bloques:
 En la preproducción, preparamos la infrastructura que tendrá como mínimo 2 motores de bases de datos, dos servidores de aplicaciones y un repositorio privado de código. Registramos un dominio para la app y evaluamos el código. También generamos un conjunto de datos de referencia para hacer los primeros tests durante el desarrollo de la aplicación.
-El modelo de datos es dónde definimos cada uno de los campos que son necesarios para registrar las preguntas. - por ejemplo necesitamos guardar cada pregunta, la respuesta correcta, las opciones de cada pregunta, su categoría o su nivel-. también incluimos un utilitario que es un aplicación web a medida, para gestionar y validar las preguntas que se cargarán en el sistema en producción.
+El modelo de datos es dónde definimos cada uno de los campos que son necesarios para registrar las preguntas. - por ejemplo necesitamos guardar cada pregunta, la respuesta correcta, las opciones de cada pregunta, su categoría o su nivel-. también incluimos un utilitario que es un aplicación web a medida, para gestionar y validar las preguntas que se cargarán en el sistema una vez entre en producción.
 
 En los bloques de diseño, interfaz y experiencia del usuario definimos las características visuales de la aplicación: fondo, colores, tipografía, animaciones, iconografía, tono y leibeling.
 Dado que un aspecto clave en este tipo de aplicación es el módulo de comunicación con los servidores de bases de datos, incluimos las integraciones con los diferentes sistemas en esta fase.
@@ -51,3 +51,6 @@ Sobre el presupuesto, hemos elaborado dos opciones. En la segunda hemos fusionad
 
 Tener la aplicación publicada es un gran paso. Pero no podemos olvidar que el marketing y la comunicación son claves.
 Más información, dudas? Sólo tiene que comunicarse con nosotros via mail o whatsapp...
+
+
+

@@ -1,4 +1,5 @@
 pausa:
+
 La pantalla está en blanco. Ninguna novedad.
 ----
 c0:

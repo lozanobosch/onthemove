@@ -1,6 +1,6 @@
 pausa:
 
-La pantalla está en blanco. Ninguna novedad.
+La pantalla está en blanco.           Ninguna novedad.
 ----
 c0:
 La pantalla está en blanco. 

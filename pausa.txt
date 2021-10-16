@@ -1,0 +1,13 @@
+pausa:
+La pantalla está en blanco. Ninguna novedad.
+----
+c0:
+La pantalla está en blanco. 
+Ninguna novedad.
+----
+c1:
+La pantalla está en blanco...
+ninguna novedad.
+----
+c2:
+La pantalla está en blanco: ninguna novedad.
